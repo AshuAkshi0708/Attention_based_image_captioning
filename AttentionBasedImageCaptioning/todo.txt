@@ -1,0 +1,9 @@
+Get images using COCO API - Done
+Write a train function
+Get a pre-trained CNN and connect it to an LSTM Network
+Figure out how to offload all these to the small GPUs in ieng
+
+- add attention LSTM model
+- experiment with number of layers
+- experiment with Flickr
+- experiment with attention vs no-attention
